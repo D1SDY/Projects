@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="List" targetName="tests-stage-5" />
+      <config projectName="List" targetName="tests-stage-4" />
+      <config projectName="List" targetName="tests-stage-3" />
+      <config projectName="List" targetName="tests-stage-2" />
+      <config projectName="List" targetName="tests-stage-1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83c2bff3-9585-4c27-ab10-9f5411ed7389" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1SyEGjf1cW4akVJnFWy1yj63RjD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.sanitizers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.tests-stage-4">
+    <configuration name="LAST ONE" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-3" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-3" TEST_METHOD="LAST ONE" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NEW" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-3" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-3" TEST_METHOD="NEW" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators &lt;, &lt;=, &gt;, &gt;=" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-3" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-3" TEST_CLASS="[stage3]" TEST_METHOD="Operators &lt;, &lt;=, &gt;, &gt;=" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trie intersection" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-4" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-4" TEST_CLASS="[intersection]" TEST_METHOD="Trie intersection" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trie union" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-4" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-4" TEST_CLASS="[union]" TEST_METHOD="Trie union" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests-stage-1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests-stage-2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests-stage-3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests-stage-4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests-stage-5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="List" TARGET_NAME="tests-stage-5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="List" RUN_TARGET_NAME="tests-stage-5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.tests-stage-1" />
+      <item itemvalue="CMake Application.tests-stage-2" />
+      <item itemvalue="CMake Application.tests-stage-3" />
+      <item itemvalue="CMake Application.tests-stage-4" />
+      <item itemvalue="CMake Application.tests-stage-5" />
+      <item itemvalue="Catch.NEW" />
+      <item itemvalue="Catch.Trie union" />
+      <item itemvalue="Catch.Trie intersection" />
+      <item itemvalue="Catch.Operators &lt;, &lt;=, &gt;, &gt;=" />
+      <item itemvalue="Catch.LAST ONE" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.Operators &lt;, &lt;=, &gt;, &gt;=" />
+        <item itemvalue="Catch.LAST ONE" />
+        <item itemvalue="Catch.Trie union" />
+        <item itemvalue="Catch.Trie intersection" />
+        <item itemvalue="Catch.NEW" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83c2bff3-9585-4c27-ab10-9f5411ed7389" name="Default Changelist" comment="" />
+      <created>1572527341557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572527341557</updated>
+      <workItem from="1572527342703" duration="2544000" />
+      <workItem from="1572802245637" duration="772000" />
+      <workItem from="1572878895610" duration="9675000" />
+      <workItem from="1572941205202" duration="638000" />
+      <workItem from="1572993476544" duration="3000" />
+      <workItem from="1573060753041" duration="6728000" />
+      <workItem from="1573112848672" duration="2639000" />
+      <workItem from="1573146181914" duration="67191000" />
+      <workItem from="1573550523867" duration="3000" />
+      <workItem from="1573551171590" duration="84906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests-trie-01.cpp</url>
+          <line>116</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests-trie-02.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests-trie-02.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests-trie-01.cpp</url>
+          <line>84</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests-trie-04.cpp</url>
+          <line>94</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/trie.cpp</url>
+          <line>414</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tests-trie-03.cpp</url>
+          <line>215</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

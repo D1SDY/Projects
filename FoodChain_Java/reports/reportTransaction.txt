@@ -1,0 +1,93 @@
+
+All requests and responses in channels
+
+Channel omo.channels.MeatChannel
+Sender Customer Anton
+Product Beef
+Quantity 148
+
+Channel omo.channels.MeatChannel
+Sender Retailer Artur
+Product Beef
+Quantity 106
+
+Channel omo.channels.MeatChannel
+Sender Processor Agro
+Product Beef
+Quantity 106
+
+Channel omo.channels.MeatChannel
+Sender Customer Anton
+Product Beef
+Quantity 44
+
+Channel omo.channels.MeatChannel
+Sender Retailer Artur
+Product Beef
+Quantity 2
+
+Channel omo.channels.MeatChannel
+Sender Processor Agro
+Product Beef
+Quantity 2
+
+Channel omo.channels.MeatChannel
+Sender Customer Anton
+Product Corn
+Quantity 148
+
+Channel omo.channels.MeatChannel
+Sender Retailer Artur
+Product Corn
+Quantity 148
+
+Channel omo.channels.MeatChannel
+Sender Processor Agro
+Product Corn
+Quantity 148
+
+Channel omo.channels.MeatChannel
+Sender Farmer Makha
+Product Beef
+Quantity 106
+
+Channel omo.channels.MeatChannel
+Sender Processor Agro
+Product Beef
+Quantity 106
+
+Channel omo.channels.MeatChannel
+Sender Retailer Artur
+Product Beef
+Quantity 106
+
+Channel omo.channels.MeatChannel
+Sender Farmer Makha
+Product Beef
+Quantity 2
+
+Channel omo.channels.MeatChannel
+Sender Processor Agro
+Product Beef
+Quantity 2
+
+Channel omo.channels.MeatChannel
+Sender Retailer Artur
+Product Beef
+Quantity 2
+
+Channel omo.channels.MeatChannel
+Sender Farmer Makha
+Product Corn
+Quantity 148
+
+Channel omo.channels.MeatChannel
+Sender Processor Agro
+Product Corn
+Quantity 148
+
+Channel omo.channels.MeatChannel
+Sender Retailer Artur
+Product Corn
+Quantity 148
+

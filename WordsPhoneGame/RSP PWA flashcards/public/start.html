@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>FLEXENTAI</title>
+    <link rel="stylesheet" href="./src/css/style.css">
+</head>
+<body onload = "document.getElementById('wordsLabel').click()">
+<div id="home-btn" onclick="setTimeout(() => {  location.href = 'index.html'; }, 200);"><img src="src/images/homeBtn.png"></div>
+<div class="container">
+
+    <div class="checkbox-wrapper">
+        <input type="checkbox" id ="lang" hidden>
+        <label for="lang" id="checkmark">
+        cz - ru
+        </label>
+    </div>
+    <div class="box">
+        <select id = "categories">
+          <option>
+            Categories
+          </option>
+        </select>
+    </div>
+
+    <div class="container-radio">
+        <input type="radio" name="radio" id = "opt1">
+        <label for="opt1" class="label1" id = "wordsLabel">
+            words
+        </label>
+
+        <input type="radio" name="radio" id = "opt2">
+        <label for="opt2" class="label2" id = "phrasesLabel">
+           phrases
+        </label>
+    </div>
+
+
+    <button class="border-animation" id="start">
+        <div class="border-animation__inner" id = "startActual"  onclick="setTimeout(() => {  location.href = 'cards.html'; }, 500);">
+            START
+        </div>
+    </button>
+
+
+</div>
+
+<script src='src/js/app.js'></script>
+<script src='src/js/controllers/startPageController.js'></script>
+<script src='src/js/models/startPageModel.js'></script>
+
+</body>
+</html>

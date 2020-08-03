@@ -1,0 +1,14 @@
+.loginForm {
+  width: 400px;
+  margin: 0 auto;
+  background-color: #323232;
+  padding: 30px;
+}
+
+.loginForm label {
+  color: white;
+}
+
+.haveAccount {
+  float: right;  
+}

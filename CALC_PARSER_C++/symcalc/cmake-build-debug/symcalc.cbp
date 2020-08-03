@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="symcalc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="symcalc">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/symcalc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 symcalc"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="symcalc/fast">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/symcalc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 symcalc/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-runner-subprocess">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/tests-runner-subprocess" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DRUNNER"/>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-runner-subprocess"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-runner-subprocess/fast">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/tests-runner-subprocess" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DRUNNER"/>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-runner-subprocess/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-runner-direct">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/tests-runner-direct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DRUNNER"/>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-runner-direct"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-runner-direct/fast">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/tests-runner-direct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DRUNNER"/>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-runner-direct/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-direct">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/tests-direct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-direct"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-direct/fast">
+				<Option output="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/tests-direct" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/MacDisk/c++/PJC/symcalc/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-direct/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/MacDisk/c++/PJC/symcalc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/app.cpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/app.hpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/cmdline.cpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/cmdline.hpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/expr.cpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/expr.hpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/expr_impl.cpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/expr_impl.hpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/main.cpp">
+			<Option target="symcalc"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/runner_direct.cpp">
+			<Option target="tests-runner-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/runner_subprocess.cpp">
+			<Option target="tests-runner-subprocess"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/subprocess_posix.cpp">
+			<Option target="tests-runner-subprocess"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-cmdline.cpp">
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-expr-long.cpp">
+			<Option target="tests-runner-subprocess"/>
+			<Option target="tests-runner-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-expr.cpp">
+			<Option target="tests-runner-subprocess"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-generated.cpp">
+			<Option target="tests-runner-subprocess"/>
+			<Option target="tests-runner-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-main.cpp">
+			<Option target="tests-runner-subprocess"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-tokenizer.cpp">
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tests/tests-utils.cpp">
+			<Option target="tests-runner-subprocess"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tokenizer.cpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/tokenizer.hpp">
+			<Option target="symcalc"/>
+			<Option target="tests-runner-direct"/>
+			<Option target="tests-direct"/>
+		</Unit>
+		<Unit filename="/Volumes/MacDisk/c++/PJC/symcalc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

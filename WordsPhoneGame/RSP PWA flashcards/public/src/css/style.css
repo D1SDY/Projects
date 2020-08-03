@@ -1,0 +1,264 @@
+@import url(https://fonts.googleapis.com/css?family=Six+Caps);
+html * {
+  box-sizing: border-box;
+}
+h1{
+  font-size: 100px;
+  margin-bottom: 20px;
+  padding-top: 0px;
+}
+body {
+  font-family: 'Six Caps', sans-serif;
+  font-size: 16px;
+  padding: 10px;
+  background: #fff;
+  color:#333;
+  text-align: center;
+  height: 100vh;
+  margin: 0;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+button{
+  background-color:#c4dffa;
+  min-width: 550px;
+  --animation-speed: 0.5s;
+  --color:#333;
+  color: var(--color);
+  position: relative;
+  display: inline-block;
+  font-size: 8em;
+  line-height: 1em;
+  font-family: 'Six Caps', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  background:#c4dffa ;
+  z-index: 1;
+  -webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+  transition: all 0.3s;
+  line-height: 1.3;
+  width: 50%;
+  -webkit-tap-highlight-color: transparent;
+  padding-left: 0em;
+  padding-right: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  -webkit-transform: scale(1, 0.8);
+          transform: scale(1, 0.8);
+
+}
+
+.container {
+  width: 100%;
+}
+#add .container{
+  margin-top: 30%;
+}
+button:active{
+  color:#c4dffa;
+  background-color: #307fcf;
+}
+button:focus{
+  outline:none;
+}
+
+.label1, .label2, .box select , #checkmark {
+  font-family: 'Six Caps', sans-serif;
+  font-weight: 300;
+  font-size: 5em;
+  letter-spacing: 0.05em;
+  background-color: #c4dffa;
+}
+.box, .label1, .label2, #checkmark{
+  text-align-last: center;
+  display: inline-block;
+  border-right: 1vw solid white;
+  border-left: 1vw solid white;
+  border-top: 0.2vw solid white;
+  border-bottom: 0.2vw solid white;
+}
+
+
+
+#start{
+  transform: translate(0%, 200%);
+}
+
+.box{
+  margin-bottom: 7vh;
+  width: 65%;
+  transition: 0.5s;
+}
+
+.box select{
+  width: 100%;
+  color:  #333;
+  -webkit-appearance: button;
+  border:none;
+  outline:none;
+  transition: 0.5s;
+  background-color: white;
+  border:10px solid #c4dffa;
+  -webkit-appearance: button;
+}
+
+.container-radio{
+  display: inline-block;
+  width: 65%;
+}
+
+input[type="radio"]{
+  display: none;
+}
+
+.label1,.label2{
+  background-color: white;
+  float: left;
+  transition : 0.5s;
+  width: 27vw;
+}
+.label2{
+  float: right;
+}
+
+.container-radio input:checked + label{
+  background-color: #c4dffa;
+
+}
+
+
+.checkbox-wrapper{
+  position: absolute;
+  right: 5vw;
+  top: 10vh;
+}
+
+#checkmark{
+  width: 20vw;
+  background-color: white;
+  border: 10px solid #c4dffa;
+  padding:0 0 4px 4px;
+}
+.input_form input, input{
+  width: 68%;
+  text-align: center;
+  padding: 1em;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: 1px solid darkgrey;
+  outline: none;
+  font-size: 37.5px;
+}
+.input_form input:hover,.input_form input:active, .input_form input:focus{
+  border: 2px solid #307fcf transparent;
+}
+.add_page button{
+  width: 68%;
+}
+.add_page .container-radio{
+  margin-top: -140px;
+}
+.add_new_word_form, .add_new_category_form{
+  display: none;
+}
+.add_page button{
+  font-size: 5em;
+  min-width: 5vh;
+  padding-left: 0em;
+  padding-right: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  -webkit-tap-highlight-color: transparent;
+}
+.add_page .add_btn{
+  width: 30%;
+}
+#addCategoryToWords{
+  float: left;
+  transition : 0.5s;
+  width: 25vw;
+  font-size: 5em;
+  margin-right: 110px;
+  -webkit-tap-highlight-color: transparent;
+  padding:5px;
+}
+#addCategoryToPhrases{
+  float: right;
+  width: 25vw;
+  font-size: 5em;
+  -webkit-tap-highlight-color: transparent;
+  padding:5px;
+}
+
+.add_page2 button{
+  width: 56%;
+  min-width: 5vh;
+}
+.choise{
+  display: inline-block;
+}
+#plus1, #plus2{
+  color:#307fcf;
+  font-size: 100px;
+  /* margin-left:50px; */
+  padding: 0em;
+  display: none;
+}
+.title{
+  display: inline-block;
+  font-size: 100px;
+  margin-bottom: 20px;
+  padding-top: 0px;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.back_btn button{
+  margin-top: 20%;
+}
+.back{
+  width: 200px;
+  height: 50px;
+}
+.add{
+  margin-top: 35%;
+}
+#add{
+  display: inline;
+}
+
+.error {
+  letter-spacing: 0.05em;
+  margin: 0 0 0 0;
+  font-size: 40px;
+  color: red;
+}
+#home-btn{
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  width: 136px;
+  height: 136px;
+}
+#home-btn img{
+  width: 100%;
+  filter: opacity(0.5);
+  -webkit-filter: opacity(0.5);
+  transition: all 0.2s;
+}
+
+#home-btn:hover img{
+  filter: opacity(1);
+  -webkit-filter: opacity(1);
+}

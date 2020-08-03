@@ -1,0 +1,22 @@
+.footer {
+    background-color: #323232;
+
+    width: 100%;
+}
+
+.footer p {
+    color: white;
+}
+
+.footer .title2 {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.footer .title1 {
+    margin-top: 10px;
+}
+
+.footer h5 {
+    color: #969696;
+}

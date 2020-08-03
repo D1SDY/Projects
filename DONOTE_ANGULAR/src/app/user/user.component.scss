@@ -1,0 +1,42 @@
+.nameInput{
+    border: 0;
+    font-size: 2em;
+    outline:none;
+    text-align: center;
+}
+
+#logo{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    animation: fill 0.5s ease forwards 1.5s;
+}
+#logo path{
+    stroke-dasharray: 5799;
+    stroke-dashoffset: 5799;
+    animation: line-anim 5s ease forwards 1s;
+}
+@keyframes line-anim{
+    to{
+        stroke-dashoffset: 0;
+    }
+}
+@keyframes fill{
+    from{
+        fill:transparent;
+    }
+    to{
+        fill:white;
+    }
+}
+.name{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.audio{
+    display: none;
+}

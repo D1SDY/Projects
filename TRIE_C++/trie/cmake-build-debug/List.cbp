@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="List"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-5">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-5/fast">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-4">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-4/fast">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-2">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-2/fast">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-3">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-3/fast">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-1">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests-stage-1/fast">
+				<Option output="/Users/antonstriapan/Downloads/trie/cmake-build-debug/tests-stage-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonstriapan/Downloads/trie/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests-stage-1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antonstriapan/Downloads/trie/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/catch.hpp">
+			<Option target="tests-stage-5"/>
+			<Option target="tests-stage-4"/>
+			<Option target="tests-stage-2"/>
+			<Option target="tests-stage-3"/>
+			<Option target="tests-stage-1"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/test-helpers.cpp">
+			<Option target="tests-stage-5"/>
+			<Option target="tests-stage-4"/>
+			<Option target="tests-stage-2"/>
+			<Option target="tests-stage-3"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/test-helpers.hpp">
+			<Option target="tests-stage-5"/>
+			<Option target="tests-stage-4"/>
+			<Option target="tests-stage-2"/>
+			<Option target="tests-stage-3"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/tests-main.cpp">
+			<Option target="tests-stage-5"/>
+			<Option target="tests-stage-4"/>
+			<Option target="tests-stage-2"/>
+			<Option target="tests-stage-3"/>
+			<Option target="tests-stage-1"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/tests-trie-01.cpp">
+			<Option target="tests-stage-1"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/tests-trie-02.cpp">
+			<Option target="tests-stage-2"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/tests-trie-03.cpp">
+			<Option target="tests-stage-3"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/tests-trie-04.cpp">
+			<Option target="tests-stage-4"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/tests-trie-05.cpp">
+			<Option target="tests-stage-5"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/trie.cpp">
+			<Option target="tests-stage-5"/>
+			<Option target="tests-stage-4"/>
+			<Option target="tests-stage-2"/>
+			<Option target="tests-stage-3"/>
+			<Option target="tests-stage-1"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/trie.hpp">
+			<Option target="tests-stage-5"/>
+			<Option target="tests-stage-4"/>
+			<Option target="tests-stage-2"/>
+			<Option target="tests-stage-3"/>
+			<Option target="tests-stage-1"/>
+		</Unit>
+		<Unit filename="/Users/antonstriapan/Downloads/trie/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

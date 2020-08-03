@@ -1,0 +1,8 @@
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/test.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/tests-stage-5.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/tests-stage-4.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/tests-stage-2.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/tests-stage-3.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/antonstriapan/Downloads/trie/cmake-build-debug/CMakeFiles/tests-stage-1.dir

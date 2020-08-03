@@ -1,0 +1,147 @@
+
+
+
+Request
+
+Customer Customer Anton wants Beef weight 148
+
+Retailer Retailer Artur send request to channel for product Beef
+
+Processor need meet from farmer
+Processor Processor Agro send request to channel for farmers
+
+Farmer Farmer Makha prijal pozadavek odProcessor Agro
+Farmer Farmer Makha zacal pestovani Beef
+Farmer Farmer Makha ukoncil pestovani Beef a vypestoval 106
+Farmer Farmer Makha poslal skladu produkt Beef
+
+Prodej: 
+Prodejce Farmer Makha.
+Zakaznik Processor Agro.
+ Product Beef.
+ Weight 106.
+ Price 171.
+ Total price 18126
+
+Prijal obejdnavku od Farmer Makha
+Processor Processor Agro zacal vyrobeni Beef
+Processor Processor Agro ukoncil vyrobeni Beef a vyrobil 106
+Processor Processor Agroposlal do sveho skladu
+
+Prodej: 
+Prodejce Processor Agro.
+Zakaznik Retailer Artur.
+ Product Beef.
+ Weight 106.
+ Price 191.
+ Total price 20246
+
+Retailer Retailer Artur prijal obejdnavku od Processor Agro
+
+Prodej: 
+Prodejce Retailer Artur.
+Zakaznik Customer Anton.
+ Product Beef.
+ Weight 148.
+ Price 201.
+ Total price 29748
+
+Customer Customer Anton prijal obejdnavku od Retailer Artur
+
+
+
+Request
+
+Customer Customer Anton wants Beef weight 44
+
+Retailer Retailer Artur send request to channel for product Beef
+
+Processor need meet from farmer
+Processor Processor Agro send request to channel for farmers
+
+Farmer Farmer Makha prijal pozadavek odProcessor Agro
+Farmer Farmer Makha zacal pestovani Beef
+Farmer Farmer Makha ukoncil pestovani Beef a vypestoval 2
+Farmer Farmer Makha poslal skladu produkt Beef
+
+Prodej: 
+Prodejce Farmer Makha.
+Zakaznik Processor Agro.
+ Product Beef.
+ Weight 2.
+ Price 161.
+ Total price 322
+
+Prijal obejdnavku od Farmer Makha
+Processor Processor Agro zacal vyrobeni Beef
+Processor Processor Agro ukoncil vyrobeni Beef a vyrobil 2
+Processor Processor Agroposlal do sveho skladu
+
+Prodej: 
+Prodejce Processor Agro.
+Zakaznik Retailer Artur.
+ Product Beef.
+ Weight 2.
+ Price 181.
+ Total price 362
+
+Retailer Retailer Artur prijal obejdnavku od Processor Agro
+
+Prodej: 
+Prodejce Retailer Artur.
+Zakaznik Customer Anton.
+ Product Beef.
+ Weight 44.
+ Price 191.
+ Total price 8404
+
+Customer Customer Anton prijal obejdnavku od Retailer Artur
+
+
+
+Request
+
+Customer Customer Anton wants Corn weight 148
+
+Retailer Retailer Artur send request to channel for product Corn
+
+Processor need meet from farmer
+Processor Processor Agro send request to channel for farmers
+
+Farmer Farmer Makha prijal pozadavek odProcessor Agro
+Farmer Farmer Makha zacal pestovani Corn
+Farmer Farmer Makha ukoncil pestovani Corn a vypestoval 148
+Farmer Farmer Makha poslal skladu produkt Corn
+
+Prodej: 
+Prodejce Farmer Makha.
+Zakaznik Processor Agro.
+ Product Corn.
+ Weight 148.
+ Price 21.
+ Total price 3108
+
+Prijal obejdnavku od Farmer Makha
+Processor Processor Agro zacal vyrobeni Corn
+Processor Processor Agro ukoncil vyrobeni Corn a vyrobil 148
+Processor Processor Agroposlal do sveho skladu
+
+Prodej: 
+Prodejce Processor Agro.
+Zakaznik Retailer Artur.
+ Product Corn.
+ Weight 148.
+ Price 41.
+ Total price 6068
+
+Retailer Retailer Artur prijal obejdnavku od Processor Agro
+
+Prodej: 
+Prodejce Retailer Artur.
+Zakaznik Customer Anton.
+ Product Corn.
+ Weight 148.
+ Price 51.
+ Total price 7548
+
+Customer Customer Anton prijal obejdnavku od Retailer Artur

@@ -1,0 +1,28 @@
+.head {
+    margin: 5px 0px 0px 10px;
+}
+
+.head h1 {
+    color:  #969696;
+}
+
+.information {
+    margin: 5px 0px 0rem 10px;
+}
+
+.information h3 {
+    color: #969696;
+}
+
+.orders {
+    margin: 5px 0px 10rem 0px;
+}
+
+.orders h3 {
+    color: #969696;
+}
+
+.bookIcon {
+    width: 7rem ; 
+    height: 10rem;
+}

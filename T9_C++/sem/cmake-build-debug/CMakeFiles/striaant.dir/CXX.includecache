@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/MacDisk/c++/striaant/sem/autocorrect.hpp
+cstddef
+-
+vector
+-
+string
+-
+iterator
+-
+iosfwd
+-
+
+/Volumes/MacDisk/c++/striaant/sem/main.cpp
+iostream
+-
+autocorrect.hpp
+/Volumes/MacDisk/c++/striaant/sem/autocorrect.hpp
+

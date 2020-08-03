@@ -1,0 +1,3 @@
+/Volumes/MacDisk/c++/striaant/sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/MacDisk/c++/striaant/sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/MacDisk/c++/striaant/sem/cmake-build-debug/CMakeFiles/striaant.dir

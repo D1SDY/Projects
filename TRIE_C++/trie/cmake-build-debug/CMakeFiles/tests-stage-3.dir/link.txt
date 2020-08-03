@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/tests-stage-3.dir/tests-trie-03.cpp.o CMakeFiles/tests-stage-3.dir/trie.cpp.o CMakeFiles/tests-stage-3.dir/tests-main.cpp.o CMakeFiles/tests-stage-3.dir/test-helpers.cpp.o  -o tests-stage-3 

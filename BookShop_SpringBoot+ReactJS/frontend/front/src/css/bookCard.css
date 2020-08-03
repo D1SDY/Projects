@@ -1,0 +1,10 @@
+/* "/100px180"  */
+
+.bookCard img{
+    height: 100;
+    width: 100;
+}
+
+.bookCard {
+    margin: 20px 0px 20px 0px;
+}

@@ -1,0 +1,14 @@
+.registrationForm {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #323232;
+    padding: 30px;
+}
+
+.registrationForm label {
+    color: white;
+}
+
+.haveAccount {
+    float: right;
+}

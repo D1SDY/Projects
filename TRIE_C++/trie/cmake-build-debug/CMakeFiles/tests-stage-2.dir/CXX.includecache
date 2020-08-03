@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonstriapan/Downloads/trie/trie.cpp
+trie.hpp
+/Users/antonstriapan/Downloads/trie/trie.hpp
+utility
+-
+algorithm
+-
+cstring
+-
+stack
+-
+
+/Users/antonstriapan/Downloads/trie/trie.hpp
+vector
+-
+string
+-
+iterator
+-
+iosfwd
+-
+
